@@ -1,2 +1,3 @@
 import tensorflow as tf
-a=tf.constant(5)
+tf.constant(4)
+print()[D[tf.constant(9))
