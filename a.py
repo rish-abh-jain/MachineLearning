@@ -1,1 +1,2 @@
-import tensorflow as tftf.constant)[D()[D5)
+import tensorflow as tf
+a=tf.constant(5)
